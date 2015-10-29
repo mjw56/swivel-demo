@@ -1,0 +1,17 @@
+{
+  "name": "swivel-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Wilcox <mwilcox56@gmail.com> (http://github.com/mjw56)",
+  "license": "MIT",
+  "dependencies": {
+    "swivel": "^3.0.0"
+  },
+  "devDependencies": {
+    "systemjs": "^0.19.5"
+  }
+}
